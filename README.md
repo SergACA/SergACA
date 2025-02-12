@@ -15,6 +15,11 @@
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/pin/?username=MagoPato&repo=proyecto1&theme=github_dark" />
     </a>
+     <a href="https://github.com/MagoPato/proyecto1">
+        <img align="center"
+            src="[https://github-readme-stats.vercel.app/api/pin/?username=MagoPato&repo=proyecto1&theme=github_dark](https://github.com/JoseCovarrubias0919/Tienda_Virtual)" />
+    </a>
+
 
 </div>
 ## 🚀 Sobre mí
