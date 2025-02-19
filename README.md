@@ -4,21 +4,19 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SergACA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <p>
-    
   </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergACA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergACA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+
 </div>
 ## 🎯 Proyectos Destacados
 
 <div align="center">
-    <a href="https://github.com/MagoPato/proyecto1">
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=MagoPato&repo=proyecto1&theme=github_dark" />
+    <a href="https://github.com/MagoPato/WattVision">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MagoPato&repo=WattVision&theme=github_dark" />
     </a>
-     <a href="https://github.com/MagoPato/proyecto1">
-        <img align="center"
-            src="[https://github-readme-stats.vercel.app/api/pin/?username=MagoPato&repo=proyecto1&theme=github_dark](https://github.com/JoseCovarrubias0919/Tienda_Virtual)" />
-    </a>
+</div>
+
+    
 
 
 </div>
@@ -65,13 +63,13 @@
 
 ## 📫 Contáctame
 
-- 📧 Email: tu.email@ejemplo.com
-- 🌐 Portfolio: [tuportfolio.com](https://tuportfolio.com)
+ <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<!-- - 🌐 Portfolio: [tuportfolio.com](https://tuportfolio.com)-->
 
 ## 🗣 Idiomas
 
 - 🇪🇸 Español (Nativo)
-- 🇺🇸 Inglés (Profesional)
+- 🇺🇸 Inglés (Advanced)
 
 ## 🎮 Cuando no estoy programando
 
@@ -81,6 +79,3 @@
 
 
 </div>
-<!--
-*MagoPato/MagoPato* is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
--->
